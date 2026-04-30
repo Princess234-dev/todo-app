@@ -1,2 +1,11 @@
-# todo-app
-A simple To-Do List application built using HTML, CSS, and JavaScript that allows users to add and remove tasks easily.
+# To-Do List App
+
+This is a simple To-Do List web application built using HTML, CSS, and JavaScript.
+
+## Features
+- Add tasks
+- Display tasks
+- Remove tasks by clicking
+
+## Author
+Hauwa'u Muhammad
